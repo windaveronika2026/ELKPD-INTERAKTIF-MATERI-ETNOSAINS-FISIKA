@@ -1,0 +1,6 @@
+{
+  "name": "ENERGY QUEST: Misi Energi Palembang",
+  "description": "E-LKPD Fisika interaktif berbasis gamifikasi konteks etnosains pengeringan kemplang Palembang dan isu sosiosaintifik untuk literasi energi dan pengambilan keputusan berbasis bukti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
